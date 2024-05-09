@@ -1,5 +1,8 @@
-"0","str(factor)
-"
+"0","factor <- factor(c(""low"", ""medium"", ""high""))"
+"0",""
+"0","# To see what value factors as assigned to each level, you can use str"
+"0",""
+"0","str(factor)"
 "1"," Factor w/ 3 levels ""high"",""low"",""medium"": "
 "1",""
 "1","2 3 1"
