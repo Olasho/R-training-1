@@ -566,6 +566,9 @@ x = "Sepal Length" sets the label for the x-axis.
 y = "Sepal Width" sets the label for the y-axis.
 
 
+
+
+
 In the upcoming class, we will delve deeper into the capabilities of ggplot, a versatile package for creating stunning visualizations in R. We'll explore its powerful features and learn how to craft impactful plots for data analysis and presentation.
 
 Additionally, we will introduce another indispensable package called dplyr, which is renowned for its prowess in data manipulation tasks. You'll discover how dplyr simplifies common data wrangling tasks and empowers you to work with data more efficiently.
